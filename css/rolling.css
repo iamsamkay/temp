@@ -7,6 +7,39 @@
     font-family: 'Poppins', sans-serif
 }
 
+.dotg {
+    height: 10px;
+    width: 10px;
+    background-color: #1266F1;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dota {
+    height: 10px;
+    width: 10px;
+    background-color: #00B74A;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dotv {
+    height: 10px;
+    width: 10px;
+    background-color: #F93154;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dotp {
+    height: 10px;
+    width: 10px;
+    background-color: #FFA900;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+
 .content {
     width: 100vw;
     min-height: 100vh
